@@ -18,4 +18,4 @@
 
   
 ## Contact me on Discord:
-[![Discord Presence](https://lanyard.cnrad.dev/api/434394986352476161?hideBadges=false)](https://discord.com/users/434394986352476161)
+@derkame
