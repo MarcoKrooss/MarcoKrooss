@@ -11,7 +11,7 @@
 ## :rocket: Technologies & Tools
 
 ### Knowledge Base:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,svelte,py,github,nodejs,postman,docker,visualstudio,vscode,eclipse,express,mongodb,mysql,cpp,cs&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,svelte,py,github,nodejs,postman,docker,visualstudio,vscode,eclipse,express,mysql,cpp,cs,dotnet&perline=6)](https://skillicons.dev)
 
 ### Technologies I'm Excited to Explore:
 [![My Skills](https://skillicons.dev/icons?i=java,bots,nginx,electron,django,kubernetes&perline=6)](https://skillicons.dev)
